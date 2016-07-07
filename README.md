@@ -3,3 +3,4 @@ Just to help my SMs understand Git
 Kate will git pull to see this.
 #runaway train #out of control 
 this is lisa teaching wendy
+this is jellywen joining the git party.
